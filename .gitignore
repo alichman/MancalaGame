@@ -1,0 +1,11 @@
+/bin/
+/.gradle/
+/build/
+/docs/AI/bin/
+/docs/AI/build/
+/docs/AI/config/
+/docs/bin/
+/docs/build/
+/docs..gradle/
+/docs/config/
+/.vscode/
